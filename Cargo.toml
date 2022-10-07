@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "external",
+    "extension_trait",
+    "newtype_pattern",
+]
